@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 I'm Mads
 
 I'm learning to code and I will graduate late 15. March 2024. So far I have learned the basics of:
@@ -8,6 +8,11 @@ I'm learning to code and I will graduate late 15. March 2024. So far I have lear
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) + ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+
+### CMS
+
+![umbraco](https://img.shields.io/badge/umrbaco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
+Dynamicweb
 
 ![adobexd](https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=javascript&logoColor=white)
 
