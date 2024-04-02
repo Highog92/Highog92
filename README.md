@@ -12,6 +12,7 @@ I'm learning to code and I will graduate late 15. March 2024. So far I have lear
 ### CMS
 
 ![umbraco](https://img.shields.io/badge/umrbaco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=react&logoColor=white) 
 Dynamicweb
 
 ![adobexd](https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=javascript&logoColor=white)
